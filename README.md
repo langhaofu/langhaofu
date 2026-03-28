@@ -4,7 +4,6 @@
 
 # 郎浩富
 
-**求职意向：嵌入式/软硬结合/全栈研发工程师**
 📞 1735990696 | ✉️ lhf06968888@outlook.com
 🔗 CSDN：[ [CSDN 博客](https://blog.csdn.net/2301_79913420) ]| GitHub：[[https://github.com/langhaofu](https://github.com/langhaofu)]
 
