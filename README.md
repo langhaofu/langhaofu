@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Lang Haofu (郎浩富) 👋
 
-<!--
-**langhaofu/langhaofu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **成都信息工程大学 | 电子信息工程 | 本科 (2023 - 至今)**
 
-Here are some ideas to get you started:
+我是一名热爱折腾的**硬件/嵌入式/软硬结合研发工程师**，同时也是 **NextLayer Studio** 主理人。我热衷于将底层硬件驱动、机器视觉算法与上层应用/微型 SaaS 产品结合，探索前沿技术的商业化落地。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ 技术栈 (Tech Stack)
+- **底层与硬件:** C / C++ | STM32 | ESP32 | 龙芯 | 树莓派 | Altium Designer / 嘉立创 EDA
+- **算法与视觉:** Python | OpenCV / OpenMV | PID 控制算法
+- **全栈与AI:** 本地大语言模型部署 (OpenClaw) | Chrome Extension 开发 | Linux
+
+### 🚀 核心项目与开源探索
+- 🏎️ **极速光电（龙芯）组智能车:** 自研整车硬件架构与高速 PID 寻迹算法 (全国总决赛二等奖)
+- 🎯 **智能靶纸弹孔识别系统:** 基于计算机视觉的软硬件协同高精度打靶计分系统
+- 🤖 **基于树莓派/ESP32的嵌入式智能视觉追踪终端:** 集成低延迟无线通信与人脸/目标识别追踪模块
+- 💻 **NextLayer Studio 微型 SaaS:** 独立开发 Chrome 浏览器扩展工具，打通海外支付体系出海变现
+
+### 🏆 荣誉与奖项
+- 第二十届全国大学生智能汽车竞赛 全国总决赛 二等奖
+- 第六届“华为杯”四川省大学生嵌入式设计竞赛 二等奖
+- 国家实用新型/发明专利 1 项
+
+📫 **联系我:** lhf06968888@outlook.com | [CSDN 博客](https://blog.csdn.net/2301_79913420)
