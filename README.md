@@ -4,7 +4,7 @@
 
 # 郎浩富
 
-📞 1735990696 | ✉️ lhf06968888@outlook.com
+📞 17358990696 | ✉️ lhf06968888@outlook.com
 🔗 CSDN：[ [CSDN 博客](https://blog.csdn.net/2301_79913420) ]| GitHub：[[https://github.com/langhaofu](https://github.com/langhaofu)]
 
 ### 🎓 教育背景
